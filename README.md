@@ -2,7 +2,7 @@
 My first repository
 For use as elms, repository for app-dev
 
-## **readme-edits: fav movies/series** Unstructured
+## **readme-edits: fav movies/series**
 - Mad Max Fury Road(2015) - Movie
 - Lord of the Rings [Original Trilogy] (2001-2003) - Movie
 - Toy Story Series - Movies
@@ -21,7 +21,7 @@ For use as elms, repository for app-dev
 - Love, Deaths & Robots - TV Series
 - Mind Hunter - TV Series
 
-### **Structured List of Movies/TV Series**
+### **List of Movies/TV Series**
 {
   "movies": [
     {
